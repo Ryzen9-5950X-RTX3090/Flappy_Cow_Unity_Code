@@ -1,5 +1,5 @@
 
- ~~ Source code for the Unity 2D game, Flappy Cow (production ready) ~~
+ ~~ Source code for the Unity 2D game, The Chicken game (production ready) ~~
  
  The game is developed by yours truly, Ryzen9-5950X-RTX3090.
  

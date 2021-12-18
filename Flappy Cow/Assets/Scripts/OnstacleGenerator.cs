@@ -20,7 +20,7 @@ public class OnstacleGenerator : MonoBehaviour
         {
             timer = 0;
             GameObject newObstacle = Instantiate(PipePrefab, new Vector2(PipePrefab.transform.position.x, PipePrefab.transform.position.y + Random.Range(-2f, 2f)), PipePrefab.transform.rotation);
-            Destroy(newObstacle, 15f);
+            Destroy(newObstacle, 10f);
         }
     }
 }

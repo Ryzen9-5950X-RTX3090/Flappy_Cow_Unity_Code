@@ -134,7 +134,7 @@ PlayerSettings:
     16:10: 1
     16:9: 1
     Others: 1
-  bundleVersion: 1.1.0
+  bundleVersion: 2.0.0
   preloadedAssets: []
   metroInputSource: 0
   wsaTransparentSwapchain: 0
@@ -155,11 +155,11 @@ PlayerSettings:
   applicationIdentifier:
     Standalone: com.DefaultCompany.2DProject
   buildNumber:
-    Standalone: 110
+    Standalone: 200
     iPhone: 0
     tvOS: 0
   overrideDefaultApplicationIdentifier: 1
-  AndroidBundleVersionCode: 110
+  AndroidBundleVersionCode: 200
   AndroidMinSdkVersion: 22
   AndroidTargetSdkVersion: 0
   AndroidPreferredInstallLocation: 1
